@@ -5,7 +5,7 @@ A base de dados selecionada pode ser adquirida neste [Link](https://www.kaggle.c
 
 
 ## Imagens da base de dados
-[!Screenshot](/img/img1.png)
+![Screenshot](/img/img1.png)
 
 ## Execuçaõ do Projeto
 
