@@ -7,7 +7,7 @@ A base de dados selecionada pode ser adquirida neste [Link](https://www.kaggle.c
 ## Imagens da base de dados
 [!Screenshot](/img/img1.png)
 
-## Execuçaõp do Projeto
+## Execuçaõ do Projeto
 
 ```bash
     tensorflow = 2.5.0
@@ -21,7 +21,8 @@ A arquitetura para treino e geração do modelo é a Mobilinet, metodo de otimiz
 
 ## Resultados do Detector
 **Teste em imagens da base** (Essas imagens não são sadas para treinamento)
-[!Screenshot](/img/saida.png)
+
+![Screenshot](/img/saida.png)
 
 **Teste em imagens de video capturada pela webcam em laboratório** 
-[!Screenshot](/img/saida2.png)
+![Screenshot](/img/saida2.png)
