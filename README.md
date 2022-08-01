@@ -1,6 +1,6 @@
 ## Projeto Detector de Mascara - Aprendizado Profundo
 
-Este projeto é baseado em *Machine Learning* e na linguagem de programação python. A proposta é realizar a detecção de pessoas ** USANDO MÁSCARA ** em ambientes abertos ou frechados. Esse projeto está dentro do contexto pandemico ocorrido entre o ano de 2019-2022.
+Este projeto é baseado em *Machine Learning* e na linguagem de programação python. A proposta é realizar a detecção de pessoas **USANDO MÁSCARA** em ambientes abertos ou frechados. Esse projeto está dentro do contexto pandemico ocorrido entre o ano de 2019-2022.
 A base de dados selecionada pode ser adquirida neste [Link](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection). Dessa forma é gerado um modelo de predição para detectar pessoas usando mascaras ou não.
 
 
